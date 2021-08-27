@@ -1,2 +1,2 @@
 # smoketest
-Test
+Test repository
